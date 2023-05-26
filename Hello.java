@@ -14,5 +14,8 @@ class Hello{
 
         int e=10_000;
         System.out.println(e);
+
+        double f=12e12;
+        System.out.println(f);
     }
 }
